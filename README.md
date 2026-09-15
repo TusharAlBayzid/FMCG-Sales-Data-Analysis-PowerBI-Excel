@@ -35,4 +35,4 @@ The dataset contains transaction-level sales data with the following key attribu
 
 ## 🚀 How to View This Project
 1. Download the `.pbix` file to view the interactive Power BI Dashboard.
-2. Download the `.xlsx` file to explore the raw database and Pivot Table summaries.
+2. Download the `.xlsb` file to explore the raw database and Pivot Table summaries.
